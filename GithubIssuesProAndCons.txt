@@ -1,0 +1,14 @@
+Listing of Pros and Cons of Github Issues for OPS4J when compared to hosted Jira:
+
+PRO:
++ its hosted on Github, next to the code (seamless integration)
++ responsive and ajax web interface
++ minimalistic approach
++ Good and simple REST interface
++ tags, even colorcoded
+
+CON:
+- minimalistic apporach (yes, its a PRO as well)
+- milestones are very simplistic
+- issues just to one milestone
+- no cross project tags,features & organization
